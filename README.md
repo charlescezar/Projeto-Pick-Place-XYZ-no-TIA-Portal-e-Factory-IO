@@ -1,4 +1,5 @@
-# Projeto-Pick-Place-XYZ-no-TIA-Portal-e-Factory-IO
+# Projeto Pick Place XYZ no TIA Portal e Factory IO
+
 O presente documento descreve o desenvolvimento de um bloco de programa Pick and Place XYZ para um CLP Siemens S7-1200, elaborado com o auxílio dos softwares TIA Portal V20 e Factory I/O.
 
 O programa foi estruturado em redes lógicas Ladder, responsáveis pela execução da sequência automatizada de movimentação (pick and place) aplicada a um processo de manufatura. O sistema utiliza entradas digitais, como botões de partida e sensores de posição, e saídas digitais, como motores de transporte e atuadores de liberação de peças, a fim de controlar o deslocamento e a contagem de caixas e componentes.
