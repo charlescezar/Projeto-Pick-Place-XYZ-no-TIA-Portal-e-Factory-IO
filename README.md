@@ -6,4 +6,6 @@ O programa foi estruturado em redes lógicas Ladder, responsáveis pela execuç�
 Para a coordenação do ciclo automático, foram empregados blocos de função, temporizadores e endereços de memória, garantindo a sincronização adequada entre os estágios do processo e assegurando confiabilidade e repetibilidade na operação. 
 
 [Assista ao vídeo no YouTube](https://youtu.be/rmuJJ6srkqE)
+
+
 <img width="1916" height="1027" alt="Pick   Place XYZ Factory IO" src="https://github.com/user-attachments/assets/76ea0482-1927-4c8c-b6b2-578cb2c55e1e" />
